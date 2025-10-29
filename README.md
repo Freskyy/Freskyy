@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤘, Ich bin Marc</h1>
-<h3>Hi, Im a Frontend and Backend Developer from Germany. In my spare time, I enjoy working on various Projects and I like to Learn more new Stuff!</h3>
+<h3>Hi, Im a Fullstack Developer from Germany. In my spare time, I enjoy working on various Projects and I like to Learn more new Stuff!</h3>
 
 
   ## 💰 Unterstütze mich doch gerne 😊
